@@ -1,0 +1,1 @@
+# sitefinity-image-auto-translation
